@@ -6,7 +6,7 @@ public class YProductB implements AbstractProductB {
 
 	@Override
 	public String methodB() {		
-		return "Implementación Y del producto B";
+		return "Implementaci_n Y del producto B";
 	}
 
 }
